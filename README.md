@@ -2,7 +2,7 @@
 
 # Laravel_todos_api
 
-Para este proyecto necesitaremos crear una base de datos en tu gestor de base de daatos preferido con el nombre de todo_list.
+Para este proyecto necesitaremos crear una base de datos en tu gestor de base de datos MySql preferido con el nombre de todo_list.
 
 ## Clonando el Repositorio
 
